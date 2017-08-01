@@ -1,0 +1,6 @@
+framework module Pods_SideMenuSwift {
+  umbrella header "Pods-SideMenuSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
